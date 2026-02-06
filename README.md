@@ -26,12 +26,12 @@ The README.md files in each task folder exist for you to provide feedback. You a
 
 By the end of the day on Thursday, 2/20, each member should provide feedback to the other two members in their corresponding task folder README.md document.
 
-## (Soft) Project Submission Date or Additional Feedback (due Monday, 2/24)
+## (Soft) Project Submission Date or Additional Feedback (due Monday, 2/23)
 
 By the end of the day on Monday, 2/24, each member should submit the link to this repo on the Moodle page. If more group feedback is requested, please have that done by Monday evening. Communicate clearly with your group during this process. Again, document this in the task folder README.md. 
 
 **Note: You should save your google Colab document in gitHub as you work. Failure to show consistent updating of the notebook may result in a deduction of that member's points.**
 
-## (Hard) Project Submission Date (due Wednesday, 2/26)
+## (Hard) Project Submission Date (due Wednesday, 2/25)
 
 The link should already be submitted by Monday. No more edits to documents should be made after this date! 
