@@ -13,5 +13,10 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + I would recommend deepen the narrative part to explain what the outputs mean.
 
 
-- Feedback giver #2
-  + item
+- Feedback from Max Campbell
+  + Since this is the EDA portion of the data, I think it would be helpful to go as far as to establish what each individual column represents at the beginning. You do have a general summary, but right now I don't think a reader of the target audience would understand what `PT08.S4(NO2)` represents just by reading it. 
+  + I see that you drop the `(GT)` columns, but I'm not quite sure why. It would be helpful if you explained that when you drop the columns.
+  + In order to get all those warnings to go away when you convert the objects to DateTime objects, you should convert the column in the full dataset to a DateTime object when you first read it in. I had a similar issue in my code and was able to resolve it that way.
+  + I understand that this is a rough draft so you are probably aware of this, but interpretations for all of the EDA you are performing will be necessary before this is ready to submit.
+  + This is a solid start! I'm aware that you had time constraints, so let me know if you need any help in getting this done next week if time becomes an issue.
+
