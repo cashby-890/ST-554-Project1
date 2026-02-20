@@ -13,5 +13,6 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 
 
-- Feedback giver #2
-  + item
+- Feedback from Cody Ashby
+  + After reading through the section on the grid search algorithm, it looks fairly solid outside of a few typographical errors in the narrative (e.g. missing words that could interrupt the reading flow, incorrect spelling, etc.). Personally, I think having a text cell in between code cells would be beneficial in keeping with the Good Programming Practices that's strongly encouraged in courses like thsse, even if it means a short sentence describing what you're about to do. I'm still learning the ropes on these GPPs myself, though, so there might be more pressing issues on that front.
+  + I also think the context of the narrative itself may be a bit too technical for the target audience. Simplifying some of the verbiage in describing the algorithm
