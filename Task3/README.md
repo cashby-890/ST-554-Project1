@@ -11,5 +11,5 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + Overall, Max did a great job!!
 
 
-- Feedback giver #2
-  + item
+- Feedback from Cody Ashby
+  + Everything looks pretty great so far. However, when subsetting the data in your `getCurrentMSE()` function, I think you should reindex your training and testing set
