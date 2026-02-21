@@ -12,4 +12,6 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 
 - Feedback from Cody Ashby
-  + Everything looks pretty great so far. However, when subsetting the data in your `getCurrentMSE()` function, I think you should reindex your training and testing set
+  + Everything looks pretty great so far. However, when subsetting the data in your `getCurrentMSE()` function, I think you should reindex your training and testing set as follows for both your `X` and `y`: `X_train = X.iloc[:day]` and `X_test = X.iloc[day+1]`. Running your function at the moment currently uses all but the last entry in the data set, which is not quite the goal in this cross-validation process.
+  + I also think it would be a good idea to include a derivation on calculating the MSE for a linear regression model in a markdown cell so that the target audience (i.e. people that only know the basics of statistics and/or programming) won't get to thrown off with all the mathematical jargon.
+  + Other than that and polishing already typed narratives a little, I think you're all set!
