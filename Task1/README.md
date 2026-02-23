@@ -14,7 +14,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + I don't think this is required at all, but I think it would be cool to compare the accuracy of the algorithms to each other in some manner. For example, you could compare how each valid method performs for one (or more) of the variables in the data. It would make for a fitting conclusion!
     - Note from Franklin: That's a good idea! Unfortunatelly, the accuracy of the output depends on customer input settings so it would be impossible to compare which algoritm gives more precise value.
   +  Overall, good job! I think you're in a good spot.
-    - Note from Franklin: Thank you very much!
+     - Note from Franklin: Thank you very much!
 
 
 
