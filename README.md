@@ -9,7 +9,7 @@ By the end of the day on Tuesday, 2/10, each member of the group should agree to
 - Task 2: Cody Ashby
 - Task 3: Max Campbell
 
-Other group notes for this item:
+Other group notes for this item: secound round of feedback pending?
 
 
 
